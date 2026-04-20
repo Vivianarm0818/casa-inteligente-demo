@@ -62,7 +62,7 @@ else:
 st.subheader("📷 Cámara de Seguridad")
 
 st.image(
-    "https://images.unsplash.com/photo-1581090700227-4c4a6f1a5c3d",
+    "camara.jpg",
     caption="Vista simulada de cámara de seguridad",
     use_column_width=True
 )
